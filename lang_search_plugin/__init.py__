@@ -1,0 +1,2 @@
+from .lang_search_plugin import LangSearchPlugin
+
